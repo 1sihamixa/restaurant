@@ -1,0 +1,40 @@
+{
+    "menu": [
+      {
+        "id": 1,
+        "name": "couscous vegetale",
+        "description": "ropas maroccain",
+        "price": 10.99,
+        "category": "couscous"
+      },
+      {
+        "id": 2,
+        "name": "couscous meat",
+        "description": "plat maroccain",
+        "price": 12.99,
+        "category": "couscous"
+      },
+      {
+        "id": 3,
+        "name": "couscous chiken",
+        "description":"ropas maroccain",
+        "price": 7.99,
+        "category": "couscous"
+      },
+      {
+        "id": 4,
+        "name": "couscous tfaya",
+        "description": "plat maroccain",
+        "price": 8.99,
+        "category": "couscous"
+      },
+      {
+        "id": 5,
+        "name": "milk",
+        "description": "drinks maroccain",
+        "price": 2.49,
+        "category": "drinks"
+      }
+    ]
+  }
+  
